@@ -1,24 +1,24 @@
-# README
+### MessageMe - real time chat on websockets with friendly UI.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Ruby & Rails version**
+- ruby 2.6.3
+- rails 5.2.4.1
 
-Things you may want to cover:
+**Technologies and features**
+- Action Cable
+- Form Validation
+- Strong Password (bcrypt gem)
+- 100% user friendly
 
-* Ruby version
+**Frontend**
+- Semantic UI
 
-* System dependencies
+**Initial:**
+```
+git clone
+bundle
+rails db:create
+rails db:migrate
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://glebson-messageme.herokuapp.com/
