@@ -21,5 +21,3 @@ rails db:create
 rails db:migrate
 rails db:seed
 ```
-
-https://glebson-messageme.herokuapp.com/ - registration from UI is absent. Credentials to log in [here](https://github.com/glebson1988/message_me/blob/master/db/seeds.rb)
